@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Todo App 2',
+      title: 'Todo App',
       debugShowCheckedModeBanner: false,
       home: const MyHomePage(title: 'Todo App'),
       theme: ThemeData(primarySwatch: Colors.yellow),

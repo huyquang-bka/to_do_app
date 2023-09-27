@@ -5,7 +5,10 @@ import '../utils/todo_tile.dart';
 import '../utils/dialog_box.dart';
 
 class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key, required this.title}) : super(key: key);
+  const MyHomePage({
+    Key? key,
+    required this.title,
+  }) : super(key: key);
   final String title;
 
   @override
@@ -81,7 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       backgroundColor: Colors.yellow[200],
       appBar: AppBar(
-        title: const Text("TO DO"),
+        title: Text(widget.title),
         elevation: 0,
       ),
       floatingActionButton: FloatingActionButton(
