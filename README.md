@@ -2,7 +2,7 @@
 
 <div class="image-row">
     <img src="todo.png" alt="App Screenshot" width="300" height="650">
-    <div class="image-space"></div>
+    <display: flex; gap: 20px>
     <img src="todo_add.png" alt="App Screenshot" width="300" height="650">
 
 </div>
