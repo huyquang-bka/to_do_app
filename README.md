@@ -1,11 +1,7 @@
 # Mental Health App
 
-<div class="image-row">
-    <img src="todo.png" alt="App Screenshot" width="300" height="650">
-    <display: flex; gap: 20px>
-    <img src="todo_add.png" alt="App Screenshot" width="300" height="650">
+![image](https://github.com/thvroyal/to_do_app/assets/52320573/ed2d7bba-17e3-4f13-b97f-ea503872fd87)
 
-</div>
 
 ## Description
 
