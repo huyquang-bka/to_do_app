@@ -1,7 +1,21 @@
 # Mental Health App
 
-<img src="todo.png" alt="App Screenshot" width="300" height="650">
-<img src="todo_add.png" alt="App Screenshot" width="300" height="650">
+<style>
+    .image-row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .image-row img {
+        margin: 10px;
+    }
+</style>
+
+<div class="image-row">
+    <img src="todo.png" alt="App Screenshot" width="300" height="650">
+    <img src="todo_add.png" alt="App Screenshot" width="300" height="650">
+</div>
 
 ## Description
 
